@@ -1,2 +1,0 @@
-# projectIP
-project image processing
